@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Satin Island",
+		"author": "Tom McCarthy",
+		"description": "Satin Island is a 2015 novel written by Tom McCarthy. It is McCarthy's fourth novel and fifth book.",
+		"thumb": "book1thumb.jpg",
+		"fullsize": "book1full.jpg"
+	},
+	{
+		"name": "Not On Fire, But Burning",
+		"author": "Greg Hrbek",
+		"description": "Twenty-year-old Skyler saw the incident out her window: Some sort of metallic object hovering over the Golden Gate Bridge just before it collapsed and a mushroom cloud lifted above the city. ",
+		"thumb": "book2thumb.jpg",
+		"fullsize": "book2full.jpg"
+	},
+	{
+		"name": "Marvel And A Wonder",
+		"author": "Joe Meno",
+		"description": "Grandfather and grandson must journey into the underworld of the American Midwest in search of both courage and redemption.",
+		"thumb": "book3thumb.jpg",
+		"fullsize": "book3full.jpg"
+	}
+]

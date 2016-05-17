@@ -1,0 +1,15 @@
+doctype html
+html
+	head
+		script(src='http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js')
+		script(src="js/custom.js")
+	body
+		h1 E-Book Reader
+		each book in books
+			a(href="#")
+				img.thumb(src="/images/" + book.thumb, style="height: 200px; float: left; padding: 10px", title=book.name)
+		div#display(style="width: 100%; float: left; padding: 0 20%;")
+			img#cover(style="max-width: 100%")
+			h2#title
+			p#author
+			p#description
